@@ -15,3 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![kbrener-'s 42 stats](https://badge42.coday.fr/api/v2/clvc5u5k11971901p4e3qam41c/stats?cursusId=21&coalitionId=319)](https://github.com/Coday-meric/badge42)
+
+[<div align="center">
+    <h1>LIBFT</h1>
+    <img src="https://raw.githubusercontent.com/yowcloud/yowcloud-my-utils/main/badge_00_libft_500px.png" style="width: 150px; height: 150px;">](https://github.com/KellyBRENER/LIBFT "first project of 42 cursus, the aim is to reproduce several functions of the standard library
+")
